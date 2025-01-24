@@ -88,3 +88,17 @@ The project is a collaborative effort of a team of software engineering students
    ```bash
    git clone https://github.com/your-org/investbuddy.git
    cd investbuddy
+
+2. Setup the Frontend:
+   ```bash
+   cd frontend
+   npm install
+   npm start
+
+3. Setup the Backend:
+   ```bash
+   cd backend
+   mvn clean install
+   java -jar target/investbuddy.jar
+
+4. Deploy on AWS or use Docker for local deployment.
