@@ -69,10 +69,20 @@ The project is a collaborative effort of a team of software engineering students
 ## 🤝 Team Contributions
 
 - **Mohamed BARBYCH** - *Frontend Engineer*: Implemented the responsive UI and integrated the KYC verification workflow for efficient onboarding.
+  ![image](https://github.com/user-attachments/assets/3af39c12-f968-4493-b1bc-8bd7afcd676c)
+
 - **Boubacar SANGARE** - *Backend Engineer*: Developed the backend architecture and API services for seamless data management.
+![image](https://github.com/user-attachments/assets/a399ac3e-8bfe-44ca-95c0-063b14b651a6)
+
 - **Badr BENABDELAH** - *Machine Learning Engineer*: Built the AI models for investment recommendations with 84% accuracy.
+  ![image](https://github.com/user-attachments/assets/b8c03b49-2c5f-4cff-8daf-53230d1f7a96)
+
 - **Mouaad ELHANSALI** - *Cloud Engineer*: Designed and managed scalable AWS cloud infrastructure.
+  ![image](https://github.com/user-attachments/assets/1fbbb186-c7ca-4b54-b7a2-5578d71b3a79)
+
 - **Abdessamad ABAKHAR** - *DevOps Engineer*: Automated CI/CD pipelines and streamlined deployment processes.
+  ![image](https://github.com/user-attachments/assets/b4a32638-7640-43d5-b76b-2be80eedb322)
+
 
 ---
 
