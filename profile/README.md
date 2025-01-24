@@ -78,7 +78,7 @@ The project is a collaborative effort of a team of software engineering students
   ![image](https://github.com/user-attachments/assets/b8c03b49-2c5f-4cff-8daf-53230d1f7a96)
 
 - **Mouaad ELHANSALI** - *Cloud Engineer*: Designed and managed scalable AWS cloud infrastructure.
-  ![image](https://github.com/user-attachments/assets/1fbbb186-c7ca-4b54-b7a2-5578d71b3a79)
+![image](https://github.com/user-attachments/assets/2d168c36-aa76-40e7-8483-01c77011184e)
 
 - **Abdessamad ABAKHAR** - *DevOps Engineer*: Automated CI/CD pipelines and streamlined deployment processes.
   ![image](https://github.com/user-attachments/assets/b4a32638-7640-43d5-b76b-2be80eedb322)
