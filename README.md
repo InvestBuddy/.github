@@ -49,7 +49,7 @@ The project is a collaborative effort of a team of software engineering students
 - **Database**: PostgreSQL for structured data storage.
 - **Cloud Infrastructure**: AWS for scalability, Keycloak for authentication, and Kafka for asynchronous communication.
 
-![FullStack Workflow](https://via.placeholder.com/1000x500.png)  
+![image](https://github.com/user-attachments/assets/ecaf767f-4ed5-4610-891b-bd75bf27b72a)
 *Diagram showcasing the end-to-end flow of InvestBuddy.*
 
 ---
