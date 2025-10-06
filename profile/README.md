@@ -1,4 +1,4 @@
-# InvestBuddy: A FinTech Solution for Young Investors 🚀
+# InvestBuddy: A FinTech Solution for Young Investors
 
 InvestBuddy is an innovative FinTech platform designed to empower young investors with personalized insights, efficient workflows, and a user-friendly interface. The project leverages modern technologies like Angular, Spring Boot, AWS, and Machine Learning to deliver a robust and scalable solution.
 
