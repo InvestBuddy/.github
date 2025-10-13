@@ -71,7 +71,7 @@ The project is a collaborative effort of a team of software engineering students
 - **Abdessamad ABAKHAR** - *DevOps Engineer*: Automated CI/CD pipelines and streamlined deployment processes.
   ![image](https://github.com/user-attachments/assets/b4a32638-7640-43d5-b76b-2be80eedb322)
 
-- **Mohamed BARBYCH** - *Frontend Engineer*: Implemented the responsive UI and integrated the KYC verification workflow for efficient onboarding.
+- **Mohamed BARBYCH** - *FullStack Engineer*: Implemented the responsive UI and integrated the KYC verification workflow for efficient onboarding.
   ![image](https://github.com/user-attachments/assets/3af39c12-f968-4493-b1bc-8bd7afcd676c)
 
 - **Boubacar SANGARE** - *Backend Engineer*: Developed the backend architecture and API services for seamless data management.
